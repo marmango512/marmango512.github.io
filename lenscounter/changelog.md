@@ -6,6 +6,11 @@ title: Lens Counter — Novedades / Changelog
 
 [Google Play](https://play.google.com/store/apps/details?id=com.marmango.lenscounter) · [English below](#changelog-english)
 
+### 1.0.6 — 20 oct 2026
+- Deshacer ya no borra puestas antiguas del historial: solo quita la última puesta registrada y, si pulsas más veces, solo devuelve usos.
+- El botón Deshacer también aparece tras corregir con el anillo.
+- El aviso «Deberías cambiar las lentillas» ya no desplaza el anillo al aparecer.
+
 ### 1.0.5 — 20 oct 2026
 - El gesto del anillo es más rápido: cada uso cambia con 15° de giro.
 
@@ -34,6 +39,11 @@ title: Lens Counter — Novedades / Changelog
 ---
 
 ## Changelog (English)
+
+### 1.0.6 — Oct 20, 2026
+- Undo no longer deletes older wears from the history: it only removes the last recorded wear, and further presses just give uses back.
+- The Undo button is also shown after a ring correction.
+- The "You should replace your lenses" warning no longer pushes the ring up when it appears.
 
 ### 1.0.5 — Oct 20, 2026
 - Faster ring gesture: each use changes every 15° of rotation.
