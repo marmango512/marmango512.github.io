@@ -6,6 +6,10 @@ title: Lens Counter — Novedades / Changelog
 
 [Google Play](https://play.google.com/store/apps/details?id=com.marmango.lenscounter) · [English below](#changelog-english)
 
+### 1.0.7 — 29 oct 2026
+- Nuevo: elige el tema en Ajustes → Apariencia: Claro, Oscuro o Sistema (por defecto, sigue al móvil).
+- La pantalla de Ajustes se desplaza en pantallas pequeñas.
+
 ### 1.0.6 — 20 oct 2026
 - Deshacer ya no borra puestas antiguas del historial: solo quita la última puesta registrada y, si pulsas más veces, solo devuelve usos.
 - El botón Deshacer también aparece tras corregir con el anillo.
@@ -39,6 +43,10 @@ title: Lens Counter — Novedades / Changelog
 ---
 
 ## Changelog (English)
+
+### 1.0.7 — Oct 29, 2026
+- New: choose the theme in Settings → Appearance: Light, Dark or System (default, follows the phone).
+- The Settings screen scrolls on small screens.
 
 ### 1.0.6 — Oct 20, 2026
 - Undo no longer deletes older wears from the history: it only removes the last recorded wear, and further presses just give uses back.
